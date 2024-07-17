@@ -1,0 +1,132 @@
+{
+    "OonTop": [
+        {
+            "userID": "0AiJzhamcckol76OHXyw",
+            "patientID": "11040",
+            "patientName": "Olivia Smith",
+            "patientDOB": "1.1.1980",
+            "providers": "OonTop",
+            "providerURL": "https://example.com",
+            "treatmentDate": "2024-06-20",
+            "startTime": "12:18:00",
+            "endTime": "12:19:00",
+            "features": "feature1"
+        },
+        {
+            "userID": "0AiJzhamcck4l76OHXyw",
+            "patientID": "11041",
+            "patientName": "Dave Boo",
+            "patientDOB": "1.1.1984",
+            "providers": "OonTop",
+            "providerURL": "https://example.com",
+            "treatmentDate": "2022-03-17",
+            "startTime": "15:11:03",
+            "endTime": "16:19:00",
+            "features": "feature1"
+        }
+    ],
+    "eCW": [
+        {
+            "userID": "1BzJzhamcckol76OHXyw",
+            "patientID": "11040",
+            "patientName": "Olivia S",
+            "patientDOB": "1.1.1980",
+            "providers": "eCW",
+            "providerURL": "https://example2.com",
+            "treatmentDate": "2024-06-21",
+            "startTime": "12:20:00",
+            "endTime": "12:21:00",
+            "features": "feature2"
+        },
+        {
+            "userID": "1BjLqipnfdl5m87PIZzy",
+            "patientID": "11041",
+            "patientName": "Dave B",
+            "patientDOB": "1.1.1984",
+            "providers": "eCW",
+            "providerURL": "https://example.com",
+            "treatmentDate": "2022-03-17",
+            "startTime": "09:00:00",
+            "endTime": "10:00:00",
+            "features": "feature1"
+        }
+    ],
+    "AMD": [
+        {
+            "userID": "2CiJzhamcckol76OHXyw",
+            "patientID": "11040",
+            "patientName": "Olivia Smith",
+            "patientDOB": "1.1.1980",
+            "providers": "AMD",
+            "providerURL": "https://example3.com",
+            "treatmentDate": "2024-06-22",
+            "startTime": "12:22:00",
+            "endTime": "12:23:00",
+            "features": "feature3"
+        },
+        {
+            "userID": "2CkMrijoegm6n98QJKaa",
+            "patientID": "11041",
+            "patientName": "Dave Bo",
+            "patientDOB": "1.1.1984",
+            "providers": "AMD",
+            "providerURL": "https://example.com",
+            "treatmentDate": "2022-03-17",
+            "startTime": "11:15:00",
+            "endTime": "12:30:00",
+            "features": "feature1"
+        }
+    ],
+    "Quest": [
+        {
+            "userID": "3DjJzhamcckol76OHXyw",
+            "patientID": "11040",
+            "patientName": "Olivia Smith",
+            "patientDOB": "1.1.1980",
+            "providers": "Quest",
+            "providerURL": "https://example4.com",
+            "treatmentDate": "2024-06-23",
+            "startTime": "12:24:00",
+            "endTime": "12:25:00",
+            "features": "feature4"
+        },
+        {
+            "userID": "3DlNskjpfhn7o09RLKbb",
+            "patientID": "11041",
+            "patientName": "Dave Boo",
+            "patientDOB": "1.1.1984",
+            "providers": "OonTop",
+            "providerURL": "https://example.com",
+            "treatmentDate": "2022-03-17",
+            "startTime": "13:45:00",
+            "endTime": "14:45:00",
+            "features": "feature1"
+        }
+    ],
+    "Behavidance": [
+        {
+            "userID": "4EkJzhamcckol76OHXyw",
+            "patientID": "11040",
+            "patientName": "Olivia Smith",
+            "patientDOB": "1.1.1980",
+            "providers": "Behavidance",
+            "providerURL": "https://example5.com",
+            "treatmentDate": "2024-06-24",
+            "startTime": "12:26:00",
+            "endTime": "12:27:00",
+            "features": "feature5"
+        },
+        {
+            "userID": "4EmOtlkqgjo8p10SMLcc",
+            "patientID": "11041",
+            "patientName": "Dave Boo",
+            "patientDOB": "1.1.1984",
+            "providers": "Behavidance",
+            "providerURL": "https://example.com",
+            "treatmentDate": "2022-03-17",
+            "startTime": "16:30:00",
+            "endTime": "17:30:00",
+            "features": "feature1"
+        }
+    ]
+}

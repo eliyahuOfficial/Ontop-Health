@@ -42,7 +42,7 @@ To set up and run the project locally, follow these steps:
 - **`npm run build`**: Builds the project for production.
 - **`npm run lint`**: Runs linting and formatting checks.
 
-## Dependencies - new
+## Dependencies & Information Tools
 
 ### Core Dependencies
 
